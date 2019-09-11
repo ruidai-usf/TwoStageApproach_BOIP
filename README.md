@@ -32,7 +32,7 @@ For better understanging, we have provided a sample shell script named "script" 
 
 make clean                       
 make          
-./the_combined_method 2DKP_Instance/"2DKP_1.lp" Temp/"Report_2DKP.txt" Temp/"ND_sets_2DKP_1.txt" "2DKP_1"
+./the_combined_method 2DKP_Instance/"2DKP_1.lp" "Report_2DKP.txt" "ND_sets_2DKP_1.txt" "2DKP_1"
 
 or directly run the script in the terminal.
 
