@@ -1,2 +1,2 @@
-# TwoStageMethod_BOIP
-A two stage algorithm for solving bi-objective pure integer programs
+# TwoStageApproach_BOIP
+A two-stage approach for solving bi-objective pure integer programs
