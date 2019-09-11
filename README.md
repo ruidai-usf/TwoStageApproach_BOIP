@@ -4,7 +4,9 @@ A two-stage approach for solving bi-objective pure integer linear programs
 This is an algorithm to solve a class of Bi-objective Pure Integer Linear Programs (BOILP).
 
 A BOILP can be stated as follows:
+
 min {f1(x), f2(x)} 
+
 s.t. x ∈ D
 
 where X := 
