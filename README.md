@@ -5,7 +5,7 @@ This is an algorithm to solve a class of Bi-objective Pure Integer Linear Progra
 
 A BOILP can be stated as follows:
 
-min {f1(x), f2(x)} 
+min {f1(x), f2(x)}
 s.t. x ∈ D
 
 where f1(x) and f2(x) are two objectives to minimize, x is non-negative integer, D is the feasible region for x to draw its value.
@@ -17,4 +17,4 @@ To compile the code, CPLEX (default version 12.7) must be installed on your comp
 # Data Files
 The data file should be written as a CPLEX LP file. 
 
-Please set the objective funcion as "min 0", and the first and second constraint as f1(x)<=0 and f2(x)<=0, respectively. The code will automatically process your LP file and tranform it to the format of BOILP.
+Please set the objective funcion as "min 0", and the first and second constraint as "f1(x)<=0" and "f2(x)<=0", respectively. The code will automatically process your LP file and tranform it to the format of BOILP.
