@@ -34,7 +34,7 @@ make clean
 make          
 ./the_combined_method 2DKP_Instance/"2DKP_1.lp" "Report_2DKP.txt" "ND_sets_2DKP_1.txt" "2DKP_1"
 
-or directly run the script in the terminal. 
+or directly run the script in the terminal. The output file "Report_2DKP.txt" returns the results of run time, number of single objective interger programs, and number of rectangles searched. The output file "ND_sets_2DKP_1.txt" returns the complete Nondominted Frontier for the BOILP instance.
 
 # Supporting and Citing
 The software in this ecosystem was developed as part of academic research. If you would like to help support it, please star the repository as such metrics may help us secure funding in the future. We would be grateful if you could cite:
